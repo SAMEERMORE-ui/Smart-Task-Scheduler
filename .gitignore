@@ -1,0 +1,10 @@
+bin/
+*.dat
+*.log
+*.csv
+*.json
+*.txt
+.idea/
+.classpath
+.project
+.settings/
